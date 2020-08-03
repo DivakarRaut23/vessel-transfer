@@ -1,0 +1,28 @@
+Identify Buyer:
+name,
+licence,
+address
+//optional (new customer) ? createCustomer
+
+Identify seller:
+licence,
+name,
+date of Sale
+
+vessel Details:
+hin number,
+length,
+registeredInNSW : yes/NO
+
+Fee:
+normalTransfer: $33
+lateTransfer: normalTransfer + $39 (After 14 days of date of sale)
+
+
+Returns:
+
+Transfer Fee: and confirmation on success
+
+error message on failure
+
+

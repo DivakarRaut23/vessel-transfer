@@ -1,0 +1,19 @@
+{
+    "id":"vs-1",
+    "sLicNo": "as-1",
+    "sName" :"Zlatan Ibrahimovic",
+    "sAddress":"23 Albert Rd,Mosman",
+    "bLicNo":"as-2",
+    "bName" :"Bruno Frenandes",
+    "bAddress":"18 Sir Alex Way, Sydney",
+    "hin": 123456,
+    "length": 7.8,
+    "registeredInNsw": true,
+    "dateOfSale":"2020-07-13",
+    "transferDate": "2020-07-13"
+      
+}
+
+
+
+  
